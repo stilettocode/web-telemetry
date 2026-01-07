@@ -21,7 +21,7 @@
 ## :earth_americas: Run TSS Server
 1. Clone the repository...
 ```
-git clone https://github.com/SUITS-Techteam/TSS-2025.git
+git clone https://github.com/stilettocode/web-telemetry.git
 ```
 2. Navigate into the root of the repository
 7. To build the TSS Server, run...\
